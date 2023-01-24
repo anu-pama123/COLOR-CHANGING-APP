@@ -1,0 +1,23 @@
+.box-container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.box-table {
+    width: 100%;
+}
+
+.box-row {
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+    width: 100%;
+    margin: 20px;
+}
+
+.box-column {
+    border-style: ridge;
+    margin: 6px;
+    width: 1.9%;
+}
